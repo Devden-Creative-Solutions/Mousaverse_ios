@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767461045695",
+    "firebase_url": "https://mousaversemusic-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mousaversemusic",
+    "storage_bucket": "mousaversemusic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767461045695:android:907e2c7f2c60612ae69d0a",
+        "android_client_info": {
+          "package_name": "com.Mousaverse.Music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767461045695-7gbj2np4r5mu5e0fja7rntam8g37p5vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJr85_fLYHDvrqaayPz38hOJMJox719ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767461045695-7gbj2np4r5mu5e0fja7rntam8g37p5vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
