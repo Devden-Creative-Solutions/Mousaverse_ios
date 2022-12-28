@@ -11,9 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/Scenes/BasicGrab.unity
     guid: 13bd76582a631124699f410c1e007f8c
-  - enabled: 0
-    path: Assets/Samples/Scenes/FaceTracking/ARKitFaceBlendShapes.unity
-    guid: e9280441e79e84bdbbf6b724880ae2d9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86709561e8876dc48b785560aa850f4f, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0bae4d035e04a48958a5356a844b49b4, type: 2}
